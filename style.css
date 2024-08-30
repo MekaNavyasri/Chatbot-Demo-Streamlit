@@ -1,0 +1,29 @@
+body {
+    background-color: #d086cd !important;
+}
+h1 {
+    color: blue;
+    text-align: start;
+}
+p {
+    text-align:end;
+ }
+.user-message {
+    text-align: end;
+    color: rgb(112, 220, 112);
+}
+
+.assistant-message {
+    text-align: start;
+    color:aqua;
+}
+
+.notice-box {
+    background-color: #f8d7da;
+    border: 1px solid #f5c2c7;
+    padding: 15px;
+    border-radius: 5px;
+    color: #842029;
+    margin: 10px 0;
+    font-weight: bold;
+}
